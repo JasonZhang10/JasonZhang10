@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 Code for a better me.
 
-- 🔭 Passionate about **Next.js**.
+- 🔭 Passionate about **Next.js** and **AI**.
 
   <img alt="GIF" align="" style="margin-top: 0px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
 
